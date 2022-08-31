@@ -364,8 +364,8 @@
     "zenity": "Tente instalar / atualizar o Zenity e execute novamente",
     "status": [
       "NÃO INSTALADO",
-      "CORRIDA",
-      "NÃO CORRENDO"
+      "EM EXECUÇÃO",
+      "PARADO"
     ],
     "statusDescription": "Status atual do agente",
     "agentVersion": "Nova versão",
